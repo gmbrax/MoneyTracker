@@ -26,7 +26,7 @@ receitas, despesas e investimentos de forma simples e eficiente.
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/gmbrax/MoneyTracker.git](https://github.com/gmbrax/MoneyTracker.git)
+git clone https://github.com/gmbrax/MoneyTracker.git
 
 ```
 
